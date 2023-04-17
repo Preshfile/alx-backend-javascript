@@ -12,4 +12,6 @@ export function taskFirst() {
     combination += getLast();
   
     return combination;
-  }
+  
+ }
+
