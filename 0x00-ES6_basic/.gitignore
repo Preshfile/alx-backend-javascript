@@ -1,5 +1,5 @@
 node_modules/
 package-lock.json
 package.json
-.eslintc.js
+.eslintrc.js
 babel.config.js
